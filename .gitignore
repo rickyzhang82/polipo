@@ -11,3 +11,8 @@ polipo.creatoR
 polipo.creator.user
 polipo.files
 polipo.includes
+#cscope files
+cscope.files
+cscope.in.out
+cscope.out
+cscope.po.out
