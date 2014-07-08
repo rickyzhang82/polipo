@@ -5,3 +5,9 @@ core
 polipo.html
 polipo.info
 html/
+#Qt project files
+polipo.config
+polipo.creatoR
+polipo.creator.user
+polipo.files
+polipo.includes
